@@ -1,67 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://wiki.sixoclock.net/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E7%9F%A5%E8%AF%86%E5%88%86%E7%B1%BB%E5%87%86%E5%88%99/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E8%8E%B7%E5%8F%96%E4%B8%93%E4%B8%9A%E7%89%88%E6%9C%AC/</loc>
-     <lastmod>2020-12-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://wiki.sixoclock.net/license/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E7%BB%84%E5%AD%A6/%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E7%BB%84%E5%AD%A6/%E8%BD%AC%E5%BD%95%E7%BB%84%E5%AD%A6/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F/FASTQ/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F/sam/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F/reference/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/WES%E6%B5%8B%E5%BA%8F%E7%9B%B8%E5%85%B3/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/CNV/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/INDEL/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/multi-hits_reads/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/Reads/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/SD%E5%8C%BA%E5%9F%9F/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/SNP%E5%92%8CSNV/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/soft-clipped_reads/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%8F%98%E5%BC%82/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%9F%BA%E5%9B%A0/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%9F%BA%E5%9B%A0%E5%AE%B6%E6%97%8F/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%9F%BA%E5%9B%A0%E5%9E%8B%E4%B8%8E%E8%A1%A8%E5%9E%8B/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E7%BB%93%E6%9E%84%E5%8F%98%E5%BC%82SV/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%96%E6%98%BE%E5%AD%90/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%96%E6%98%BE%E5%AD%90%E6%B5%8B%E5%BA%8F/</loc>
+     <lastmod>2020-12-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://wiki.sixoclock.net/%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84/</loc>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E5%9B%A2%E9%98%9F%E4%BB%8B%E7%BB%8D/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E9%97%AE%E9%A2%98%E5%8F%8D%E9%A6%88/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://wiki.sixoclock.net/%E8%87%B4%E8%B0%A2/</loc>
-     <lastmod>2020-12-09</lastmod>
+     <lastmod>2020-12-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
